@@ -8,7 +8,7 @@ int countChar(char* s, char c);
 
 int main()
 {
-    char str[500];
+    char str[100];
     cout << "Enter string: ";
     fgets(str, sizeof(str), stdin);
 
